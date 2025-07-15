@@ -17,23 +17,33 @@ It supports user authentication, role-based access control, JWT security, Stripe
 
 ---
 
-## ✨ **Features**
+## 🚀 **Features**
 
-- ✅ **User Authentication & Authorization**
-  - JWT Token-based security
-  - Role-based access control
-- ✅ **RESTful API Architecture**
-- ✅ **Product Management**
-  - Create, read, update, delete products & categories
-- ✅ **Order Management**
-  - Orders, order items, status updates
-- ✅ **Stripe Payment Integration**
-- ✅ **Swagger API Documentation**
-- ✅ **Tested with Postman**
+- ✅ **User Management**
+  - Register, login, and manage users
+  - Secure JWT token-based authentication
+  - Role-based authorization (admin, customer, etc.)
 
----
+- ✅ **Product & Category Management**
+  - Add, update, delete, list products & categories
 
-## 🚀 **Getting Started**
+- ✅ **Order & Order Item Management**
+  - Create and manage customer orders
+  - Manage order items linked to orders
+
+- ✅ **Cart & Cart Item Management**
+  - Add/remove items to/from cart
+  - View and update cart contents
+
+- ✅ **Payment Integration**
+  - Process secure payments via **Stripe**
+
+- ✅ **API Documentation with Swagger**
+  - Easily explore, test, and understand API endpoints via Swagger UI
+
+- ✅ **Fully Tested with Postman**
+
+==
 
 ### **1️⃣ Prerequisites**
 
